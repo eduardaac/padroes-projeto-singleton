@@ -4,7 +4,7 @@ Meu objetivo com este código é implementar o padrão Singleton para gerenciar 
 ---
 ## 📌 Diagrama de Classes
 
-![Diagrama UML](diagrama_de_classes.jpg)
+![Diagrama UML](diagrama_de_classes.png)
 
 ---
 
